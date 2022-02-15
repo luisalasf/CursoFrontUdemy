@@ -1,0 +1,30 @@
+ul{
+    background-color: #457b9d;
+    color: aliceblue;
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    color: darkslategray;
+}
+
+li{
+    float: left;
+
+}
+
+li a{
+    display: block;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none; /*No se muestra el subrayado*/
+}
+
+li:hover{
+    background-color: navy;
+}
+
